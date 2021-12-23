@@ -1,0 +1,8 @@
+0 Pregnancies q
+1 Glucose q
+2 BloodPressure q
+3 SkinThickness q
+4 Insulin q
+5 BMI q
+6 DiabetesPedigreeFunction q
+7 Age q
